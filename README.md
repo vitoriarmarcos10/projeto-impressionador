@@ -1,2 +1,2 @@
 # projeto-impressionador
-Repositório criado para manipular,praticar no Git e GitHub
+Repositório criado para manipular,praticar o Git e GitHub
