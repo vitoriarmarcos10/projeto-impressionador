@@ -1,0 +1,1 @@
+Gerando arquivo exemplo.txt para ser enviado para o repositório no GitHub
